@@ -1,4 +1,3 @@
-```markdown
 # Task Manager App
 
 A task management app with a **Flutter** frontend and **FastAPI** backend. Users can view, add, delete, and mark tasks as completed. Tasks are stored in a SQLite database.
