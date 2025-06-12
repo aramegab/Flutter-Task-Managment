@@ -22,12 +22,11 @@ A task management app with a **Flutter** frontend and **FastAPI** backend. Users
 1. Navigate to server:
    ```bash
    cd server
-```
-```
+   ```
 
 1. Install dependencies
 
-```bash
+   ```bash
    pip install -r requirements.txt
    ```
 
